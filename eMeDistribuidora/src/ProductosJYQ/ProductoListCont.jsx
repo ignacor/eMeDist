@@ -30,7 +30,7 @@ const h1 = {
         <>
 
         <Container>
-        <h1 style={h1}>Bimbo</h1>
+        <h1 style={h1}>Fiambres y Quesos</h1>
         <Row>
             {
                 items.length > 0 &&
